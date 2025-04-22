@@ -347,7 +347,7 @@
           <mxGeometry x="581.25" y="1220" width="408.75" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-429" value="扫描状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="581.25" y="1480" width="408.75" height="30" as="geometry" />
+          <mxGeometry x="581.25" y="1480" width="288.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-430" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.952;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-400" target="_pcszYmhfyqY-zE0gcQq-23">
           <mxGeometry relative="1" as="geometry" />
@@ -633,6 +633,9 @@
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-587" value="全部扫描完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="240" y="1595" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-589" value="立即恢复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1480" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
