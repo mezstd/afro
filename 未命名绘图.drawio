@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="V4GepP_crR_RxC5wct9V">
-    <mxGraphModel dx="1546" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2165" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -797,6 +797,12 @@
           <mxGeometry x="0.4221" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-643" value="进度条" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="2091.25" y="760" width="537.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-644" value="正在更新......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="722.5" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
