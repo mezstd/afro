@@ -363,7 +363,7 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.154;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-138" target="_pcszYmhfyqY-zE0gcQq-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_pcszYmhfyqY-zE0gcQq-163" value="程&lt;br&gt;序&lt;br&gt;启&lt;br&gt;动&lt;br&gt;后" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-163" value="软&lt;div&gt;件&lt;br&gt;启&lt;br&gt;动&lt;br&gt;后&lt;/div&gt;" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="660" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
