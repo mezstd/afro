@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="V4GepP_crR_RxC5wct9V">
-    <mxGraphModel dx="1151" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -826,6 +826,9 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-655" value="更新失败提醒" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2730" y="530" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-664" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-656" target="_pcszYmhfyqY-zE0gcQq-663">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-656" value="更新完成提醒" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2730" y="602.5" width="130" height="40" as="geometry" />
         </mxCell>
@@ -835,8 +838,8 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-661" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-655" target="_pcszYmhfyqY-zE0gcQq-660">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_pcszYmhfyqY-zE0gcQq-662" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-656" target="_pcszYmhfyqY-zE0gcQq-660">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-663" value="重新打开APP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="690" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
