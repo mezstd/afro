@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="V4GepP_crR_RxC5wct9V">
-    <mxGraphModel dx="2004" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1933" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -717,11 +717,35 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-615" value="会员权益对比" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="1980" width="100" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-626" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-619" target="_pcszYmhfyqY-zE0gcQq-625">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-628" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_pcszYmhfyqY-zE0gcQq-626">
+          <mxGeometry x="-0.1367" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-631" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-619" target="_pcszYmhfyqY-zE0gcQq-629">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="1850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1315" y="1810" />
+              <mxPoint x="1395" y="1810" />
+              <mxPoint x="1395" y="1807" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-619" value="已注册？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1707.5" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-622" value="恢复完成窗口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="1915" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-625" value="带限制提示的预览窗口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1730" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-629" value="无限制提示的预览窗口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1790" width="150" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
