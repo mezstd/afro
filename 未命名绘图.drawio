@@ -158,8 +158,14 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-73" value="bitlocker提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1200" y="680" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-74" target="_pcszYmhfyqY-zE0gcQq-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-74" value="退出时提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1050" y="387.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-75" value="关闭" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="367.5" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
