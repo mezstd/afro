@@ -562,8 +562,11 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-533" value="Item 3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;opacity=50;" vertex="1" parent="_pcszYmhfyqY-zE0gcQq-524">
           <mxGeometry y="226" width="600" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_pcszYmhfyqY-zE0gcQq-534" value="Item 3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;opacity=50;" vertex="1" parent="_pcszYmhfyqY-zE0gcQq-524">
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-534" value="......" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;opacity=50;" vertex="1" parent="_pcszYmhfyqY-zE0gcQq-524">
           <mxGeometry y="252" width="600" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-535" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.quickscroll3;dy=0.5;" vertex="1" parent="1">
+          <mxGeometry x="1812.75" y="1210" width="6" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
