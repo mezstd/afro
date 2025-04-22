@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="V4GepP_crR_RxC5wct9V">
-    <mxGraphModel dx="629" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -720,6 +720,16 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-614" value="恢复进度窗口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="710" y="1915" width="100" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-666" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-615">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1997.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-667" value="注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_pcszYmhfyqY-zE0gcQq-666">
+          <mxGeometry x="-0.0683" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-615" value="会员权益对比" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="1980" width="100" height="35" as="geometry" />
         </mxCell>
@@ -789,12 +799,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="887.4647846889955" as="sourcePoint" />
             <mxPoint x="1388.0800000000002" y="675.71" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1360.04" y="887.99" />
-              <mxPoint x="1360.04" y="676.99" />
-              <mxPoint x="1359.04" y="676.99" />
-              <mxPoint x="1359.04" y="675.99" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-665" value="点击更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_pcszYmhfyqY-zE0gcQq-641">
