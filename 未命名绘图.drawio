@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="V4GepP_crR_RxC5wct9V">
-    <mxGraphModel dx="3866" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="520" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -799,6 +799,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="887.4647846889955" as="sourcePoint" />
             <mxPoint x="1388.0800000000002" y="675.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="888" />
+              <mxPoint x="1360" y="676" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-665" value="点击更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_pcszYmhfyqY-zE0gcQq-641">
