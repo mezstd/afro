@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="V4GepP_crR_RxC5wct9V">
-    <mxGraphModel dx="2353" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,14 +634,32 @@
         <mxCell id="_pcszYmhfyqY-zE0gcQq-587" value="全部扫描完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="240" y="1595" width="100" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-593" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_pcszYmhfyqY-zE0gcQq-589" target="_pcszYmhfyqY-zE0gcQq-590">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-589" value="立即恢复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="880" y="1480" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-590" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1667.5" width="300" height="147.5" as="geometry" />
+          <mxGeometry x="785" y="1667.5" width="300" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="_pcszYmhfyqY-zE0gcQq-591" value="恢复弹窗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="785" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-594" value="D:\D-Savior-i18n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1710" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-595" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1710" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-596" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;按目录导出&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#647687;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;direction=south;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1750" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-597" value="按分类导出" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1750" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_pcszYmhfyqY-zE0gcQq-601" value="开始恢复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1787.5" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
